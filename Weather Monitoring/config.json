@@ -1,0 +1,7 @@
+
+{
+    "api_key": "870b3cd87328d4911420615531540e95",
+    "update_interval": 5,
+    "temperature_threshold": 35,
+    "metros": ["Delhi", "Mumbai", "Chennai", "Bangalore", "Kolkata", "Hyderabad"]
+}
